@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently working with: JavaScript, TypeScript, React, ReactNative, Redux, Git, HTML, CSS, Python 
 - 💞️ I’m looking to collaborate on Web and Mobile Apps
-- 📫 How to reach me: Go to my personal website: WIP
+- 📫 How to reach me: Go to my personal website: https://calum09.github.io/
 
 <!---
 Calum09/Calum09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
