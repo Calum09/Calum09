@@ -1,5 +1,5 @@
-<h1 style="text-align: center";> 👋 Hi, I’m Calum </h1>
-## 🌱 Aspiring Fullstack Developer
+# 👋 Hi, I’m Calum
+## 🌱 Aspiring Fullstack Developer 
 
 ### 🖼 Background
 My previous experience includes 3 years working as a QA tester within the games industry and now I'm looking for opportunities to move into software engineering.
