@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Calum 
+<h1 style="text-align: center";> 👋 Hi, I’m Calum </h1>
 ## 🌱 Aspiring Fullstack Developer
 
 ### 🖼 Background
