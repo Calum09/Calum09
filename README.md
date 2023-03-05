@@ -5,7 +5,15 @@
 My previous experience includes 3 years working as a QA tester within the games industry and now I'm looking for opportunities to move into software engineering.
 
 ### 🧑‍💻 Tools & Tech
-I’m currently working with: JavaScript, TypeScript, React, ReactNative, Redux, Git, HTML, CSS, Python 
+I’m currently working with: 
+- JavaScript
+- HTML & CSS 
+- TypeScript
+- React
+- ReactNative
+- Redux 
+- Git/Github 
+- Python 
 
 ### 🔗 Connect with me
 
