@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Calum 
-- 👀 I’m interested in Fullstack Development
+# 👀 Aspiring Fullstack Developer
 - 🌱 I’m currently working with: JavaScript, TypeScript, React, ReactNative, Redux, Git, HTML, CSS, Python 
 - 💞️ I’m looking to collaborate on Web and Mobile Apps
 - 📫 How to reach me: Go to my personal website: https://calum09.github.io/
