@@ -18,6 +18,7 @@ I’m currently working with:
 ### 🔗 Connect with me
 
 https://calum09.github.io/
+<a href="https://www.linkedin.com/in/calum-laverick-5a9133162/">LinkedIn</a>
 
 <!---
 Calum09/Calum09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
