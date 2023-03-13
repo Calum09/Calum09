@@ -17,7 +17,7 @@ I’m currently working with:
 
 ### 🔗 Connect with me
 
-<a href="https://calum09.github.io/"><Portfolio</a>
+<a href="https://calum09.github.io/">Portfolio</a>
   
 <a href="https://www.linkedin.com/in/calum-laverick-5a9133162/">LinkedIn</a>
 
