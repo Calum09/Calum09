@@ -2,7 +2,7 @@
 <h2 align="center"> 🌱 Aspiring Fullstack Developer </h2>
 
 ### 🖼 Background
-My previous experience includes 3 years working as a QA tester within the games industry and now I'm looking for opportunities to move into software engineering.
+My previous experience includes 3 years working as a Senior QA tester within the games industry and now I'm looking for opportunities to move into software engineering.
 
 ### 🧑‍💻 Tools & Tech
 I’m currently working with: 
