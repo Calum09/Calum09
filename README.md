@@ -11,11 +11,15 @@ I’m currently working with:
 - JavaScript
 - HTML & CSS 
 - TypeScript
-- React
-- ReactNative
-- Redux 
+- React.js
+- Redux
+- Node.js
+- Express.js 
 - Git/Github 
 - Python 
+
+### Currently Learning 
+Back-end Development with Node.js
 
 ### 🔗 Connect with me
 
