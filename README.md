@@ -10,12 +10,12 @@ Having earned a BA in Computing and History from the University of Kent, I'm now
 I’m currently working with: 
 - JavaScript
 - HTML & CSS 
-- TypeScript
 - React.js
 - Redux
 - Node.js
 - Express.js 
-- Git/Github 
+- PostgreSQL
+- Git & Version Control
 - Python 
 
 ### Currently Learning 
