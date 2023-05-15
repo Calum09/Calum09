@@ -27,7 +27,7 @@
 
 - 📖 Having earned a BA in Computing and History from the University of Kent, I'm now actively seeking a new career path as a software engineer.
 
-- 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Calum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick-5a9133162/)
+- 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-CalumLaverick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick-5a9133162/)
 
 
 ---
