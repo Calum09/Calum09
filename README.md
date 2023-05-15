@@ -22,14 +22,17 @@
 
 ---
 
-### 🖼 Background
-Aspiring software engineer with 4 years of experience in the games industry. With a background in QA testing and digital operations, I've worked at top companies including Omeda Studios and Creative Assembly, contributing to the development of the Total War series and Predecessor.
+### 🖼 Background :
+- ⚡ Aspiring software engineer with 4 years of experience in the games industry. With a background in QA testing and digital operations, I've worked at top companies including Omeda Studios and Creative Assembly, contributing to the development           of the Total War series and Predecessor.
 
-Having earned a BA in Computing and History from the University of Kent, I'm now actively seeking a new career path as a software engineer.
+- 📖 Having earned a BA in Computing and History from the University of Kent, I'm now actively seeking a new career path as a software engineer.
+
+- 📫  How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-Calum-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick-5a9133162/)
+
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -49,22 +52,11 @@ Having earned a BA in Computing and History from the University of Kent, I'm now
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Calum09&theme=dark&hide_border=true&border_radius=&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Calum09&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### Currently Learning 
-Back-end Development with Node.js
-
----
-
-### 🔗 Connect with me
-
-<a href="https://calum09.github.io/">Portfolio</a>
 
 <!---
 Calum09/Calum09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
