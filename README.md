@@ -1,10 +1,6 @@
 
 <h1 align="center"> 👋 Hi, I’m Calum </h1>
 
-<div id="header" align="center">
-  <img src= "https://media.giphy.com/media/smW5FBep69d3q/giphy.gif"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/calum-laverick-5a9133162/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
