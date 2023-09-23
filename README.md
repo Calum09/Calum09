@@ -14,7 +14,7 @@
 ### 🖼 Background :
 - ⚡ Software Engineer with 4 years of experience in the games industry. With a background in QA testing and digital operations, I've worked at top companies including Omeda Studios and Creative Assembly, contributing to the development of the Total War series and Predecessor.
 
-- 📖 Having earned a BA in Computing and History from the University of Kent, I'm now actively seeking a new career path as a software engineer.
+- 📖 Having earned a BA in Computing and History from the University of Kent, I'm now actively seeking a new career path as a Software Engineer.
 
 - 📫 How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/-CalumLaverick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick-5a9133162/)
 
