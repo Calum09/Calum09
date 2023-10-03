@@ -12,7 +12,7 @@
 ---
 
 ### 🖼 Background :
-- ⚡ Software Engineer specialising in frontend and backend web technologies.
+- ⚡ Software Engineer specialising in frontend and backend web technologies. Currently working with: TypeScript, HTML, TailwindCSS React.js, Next.js, Node.js and Git
   
 - 🧑‍💻 Previously worked in the games industry. With a background in QA testing and digital operations, I've worked at top companies including Omeda Studios and Creative Assembly, contributing to the development of the Total War series and Predecessor.
 
