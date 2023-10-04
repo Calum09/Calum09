@@ -45,5 +45,5 @@
 
 ### 🔥 My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Calum09)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Calum09](https://git.io/streak-stats)
   
