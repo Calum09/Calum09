@@ -18,7 +18,7 @@
 
 - 📖 BA in Computing and History from the University of Kent.
 
-- 📫 Connect with me! [![Linkedin Badge](https://img.shields.io/badge/-CalumLaverick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick/)
+- 📫 Connect with me: [![Linkedin Badge](https://img.shields.io/badge/-CalumLaverick-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/calum-laverick/)
 
 ---
 
